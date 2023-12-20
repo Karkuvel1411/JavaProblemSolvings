@@ -6,9 +6,9 @@ import java.util.*;
 public class Anagram {
 
     public static void main(String[] args) {
-        String a ="silentu";
+        String a ="silent";
         String b="listen";
-
+//  ;lnuiytrxyuhujikol;
         String low = a.toLowerCase();
         String low1 = b.toLowerCase();
 
